@@ -1,0 +1,20 @@
+{
+  "name": "fitness-guru",
+  "version": "1.0.0",
+  "description": "skill for fitness ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "keywords": [
+    "alexa",
+    "skill",
+    "fitness"
+  ],
+  "author": "KrishnaAnanthi", 
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "opearlo-analytics": "^0.1.9"
+  }
+}
